@@ -4,6 +4,6 @@
    git clone https://github.com/valentinamazyarova/getPosts.git
 ```
    
-   Гитхаб-репозиторий:
+   GitHub pages:
    https://valentinamazyarova.github.io/getPosts/testovoe/index.html
    
